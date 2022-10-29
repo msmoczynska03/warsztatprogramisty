@@ -36,6 +36,6 @@ b = 2
 suma = a + b
 print(suma)
 ```
-`print("Hello World!)"
+`print("Hello World!")`
 
 ![zdj/git.jpg](wygaszaccz.jpg)
