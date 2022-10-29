@@ -1,11 +1,11 @@
-# tabela {#id1}
+# tabela
 
 |Kolumna 1|Kolumna 2|Kolumna 3|
 |:---:|:---:|:---:|
 |Element 1|Element 2|Element 3|
 |Element 4|Element 5|Element 6|
 
-# kod (#id2)
+# kod 
 
 ```py
 s = 0
@@ -15,14 +15,18 @@ for i in range(1, 40, 2):
 print(s)
 ```
 
-# plany na weekend (#id3)
-
+# plany na weekend 
 - [ ] zrobić zadania
 - [x] zrobic notatki
-- [ ] poczytac
+- [ ] poczytac[^1]
 
-# emotki (#id4)
+# emotki 
 
 :blush: :smiley: :alien: :star:
 
+[tabela](#tabela)
+[kod](#kod)
+[plany na weekend](#plany-na-weekend)
+[emotki](#emotki)
 
+[^1]: przypis
