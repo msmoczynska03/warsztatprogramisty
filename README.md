@@ -38,4 +38,4 @@ print(suma)
 ```
 `print("Hello World!)"
 
-![zdj/git.jpg](wygaszccz.jpg)
+![zdj/git.jpg](wygaszaccz.jpg)
