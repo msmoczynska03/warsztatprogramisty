@@ -1,0 +1,26 @@
+# tabela [^1:]
+|Kolumna 1|Kolumna 2|Kolumna 3|
+|:---:|:---:|:---:|
+|Element 1|Element 2|Element 3|
+|Element 4|Element 5|Element 6|
+
+# kod (#identyfikator)
+```py
+s = 0
+
+for i in range(1, 40, 2):
+    s = s + i
+print(s)
+```
+
+# plany na weekend
+- [ ] zrobić zadania
+- [x] zrobic notatki
+- [ ] poczytac
+
+# emotki
+:blush: :smiley: :alien: :star:
+
+[^1]: przypis
+
+[Link do tabela}(#identyfikator)
